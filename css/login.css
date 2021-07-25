@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(214, 241, 241);
+}
+.card{
+    border-radius: 20px;
+    position: relative;
+    top:100px ;
+    padding:0 5px ;
+}
+.size{
+    font-size: 30px;
+    font-weight: bolder;
+}
+.login-card{
+    background-color: #5499C7;
+}
